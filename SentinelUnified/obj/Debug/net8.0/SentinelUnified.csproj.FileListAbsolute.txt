@@ -1,0 +1,14 @@
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/bin/Debug/net8.0/SentinelUnified
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/bin/Debug/net8.0/SentinelUnified.deps.json
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/bin/Debug/net8.0/SentinelUnified.runtimeconfig.json
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/bin/Debug/net8.0/SentinelUnified.dll
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/bin/Debug/net8.0/SentinelUnified.pdb
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.AssemblyInfoInputs.cache
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.AssemblyInfo.cs
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.csproj.CoreCompileInputs.cache
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.dll
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/refint/SentinelUnified.dll
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.pdb
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/SentinelUnified.genruntimeconfig.cache
+/home/ubuntu/Sentinel/SentinelUnified/SentinelUnified/obj/Debug/net8.0/ref/SentinelUnified.dll

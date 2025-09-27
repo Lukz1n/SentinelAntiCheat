@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SentinelUnified/1.0.0": {
+        "runtime": {
+          "SentinelUnified.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentinelUnified/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

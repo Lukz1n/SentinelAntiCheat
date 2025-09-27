@@ -1,0 +1,14 @@
+/home/ubuntu/Sentinel/SimulatedGame/bin/Release/net8.0/SimulatedGame
+/home/ubuntu/Sentinel/SimulatedGame/bin/Release/net8.0/SimulatedGame.deps.json
+/home/ubuntu/Sentinel/SimulatedGame/bin/Release/net8.0/SimulatedGame.runtimeconfig.json
+/home/ubuntu/Sentinel/SimulatedGame/bin/Release/net8.0/SimulatedGame.dll
+/home/ubuntu/Sentinel/SimulatedGame/bin/Release/net8.0/SimulatedGame.pdb
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.AssemblyInfoInputs.cache
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.AssemblyInfo.cs
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.csproj.CoreCompileInputs.cache
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.dll
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/refint/SimulatedGame.dll
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.pdb
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/SimulatedGame.genruntimeconfig.cache
+/home/ubuntu/Sentinel/SimulatedGame/obj/Release/net8.0/ref/SimulatedGame.dll

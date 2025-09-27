@@ -1,0 +1,5 @@
+/home/ubuntu/Sentinel/SimulatedGame/publish/SimulatedGame
+/home/ubuntu/Sentinel/SimulatedGame/publish/SimulatedGame.dll
+/home/ubuntu/Sentinel/SimulatedGame/publish/SimulatedGame.deps.json
+/home/ubuntu/Sentinel/SimulatedGame/publish/SimulatedGame.runtimeconfig.json
+/home/ubuntu/Sentinel/SimulatedGame/publish/SimulatedGame.pdb
